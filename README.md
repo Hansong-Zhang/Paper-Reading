@@ -1,5 +1,10 @@
 # Paper-Reading
 
+## Label Noise
+***
++ Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [\[PDF\]](https://arxiv.org/pdf/1804.06872.pdf)
+
+***
 ## Contrastive Learning
 ***
 + Selective-Supervised Contrastive Learning with Noisy Labels. [\[PDF\]](https://arxiv.org/pdf/2203.04181.pdf)
