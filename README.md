@@ -7,7 +7,7 @@
 2. select confident pairs 
 3. implement contrastive learning on the pair set.
 ***
-+ Class2Simi: A New Perspective on Learning with Label Noise. [\[PDF\]](https://openreview.net/pdf?id=xW9zZm9qK0_)
++ Class2Simi: A New Perspective on Learning with Label Noise. [\[PDF\]](https://arxiv.org/pdf/2006.07831.pdf)
 ***
 ## Multi-Label Learning
 ***
