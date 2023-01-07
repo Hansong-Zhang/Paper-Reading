@@ -11,3 +11,8 @@
 + Do we need zero training loss after achieving zero training error?
 + Understanding deep learning (still) requires rethinking generalization
 ***
+## Learning from Crowds
+### Majority Voting
++ Whose vote should count more: Optimal integration of labels from labelers of unknown expertise.
++ Ensemble Methods: Foundations and Algorithms.
++ Beyond majority voting: A coarse-to-fine label filtration for heavily noisy labels.
