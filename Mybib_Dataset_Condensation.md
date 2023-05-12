@@ -4,8 +4,8 @@
 ***
 + Delving into Effective Gradient Matching for Dataset Condensation
 
-- inter and intra class gradient matching
-- consider angle 
+1. inter and intra class gradient matching
+2. consider angle 
 
 ```
 @article{jiang2022delving,
