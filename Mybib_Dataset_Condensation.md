@@ -26,3 +26,13 @@ year={2021}
 }
 ```
 
++ **Dataset condensation with gradient matching**
+  + *todo*
+```bibtex
+@article{zhao2020dataset,
+  title={Dataset condensation with gradient matching},
+  author={Zhao, Bo and Mopuri, Konda Reddy and Bilen, Hakan},
+  journal={ICLR},
+  year={2021}
+}
+```
