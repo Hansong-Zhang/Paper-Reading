@@ -14,6 +14,7 @@ journal={arXiv preprint arXiv:2208.00311},
 year={2022}
 }
 
+
 + Delving into Effective Gradient Matching for Dataset Condensation
 
 ```bibtex
