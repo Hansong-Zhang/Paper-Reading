@@ -2,8 +2,8 @@
 
 ## Gradient-Matching
 + Delving into Effective Gradient Matching for Dataset Condensation
-  + inter and intra class gradient matching
-  + consider angle 
+  - inter and intra class gradient matching
+  - consider angle 
 
 ```bibtex
 @article{jiang2022delving,
