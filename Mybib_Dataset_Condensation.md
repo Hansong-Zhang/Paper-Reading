@@ -1,9 +1,9 @@
 # My Bib for Dataset Condensation
 
 ## Gradient-Matching
-+ Delving into Effective Gradient Matching for Dataset Condensation
-  - inter and intra class gradient matching
-  - consider angle 
++ **Delving into Effective Gradient Matching for Dataset Condensation**
+  + *inter and intra class gradient matching*
+  + *consider angle*
 
 ```bibtex
 @article{jiang2022delving,
@@ -14,7 +14,8 @@ year={2022}
 }
 ```
 
-+ Dataset condensation with differentiable siamese augmentation
++ **Dataset condensation with differentiable siamese augmentation**
+  + *todo*
 ```bibtex
 @inproceedings{zhao2021dataset,
 title={Dataset condensation with differentiable siamese augmentation},
