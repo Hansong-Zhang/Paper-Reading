@@ -14,6 +14,20 @@ year={2022}
 }
 ```
 
++ **Dataset condensation with gradient matching**
+  + *match the gradient of the synthetic dataset and the whole dataset*
+  + *simultaneously mimicing the training process, i.e., keep the updating path similar*
+```bibtex
+@article{zhao2020dataset,
+  title={Dataset condensation with gradient matching},
+  author={Zhao, Bo and Mopuri, Konda Reddy and Bilen, Hakan},
+  journal={ICLR},
+  year={2021}
+}
+```
+
+
+## Data Augmentation
 + **Dataset condensation with differentiable siamese augmentation**
   + *todo*
 ```bibtex
@@ -26,14 +40,27 @@ year={2021}
 }
 ```
 
-+ **Dataset condensation with gradient matching**
-  + *match the gradient of the synthetic dataset and the whole dataset*
-  + *simultaneously mimicing the training process, i.e., keep the updating path similar*
+
+
+
+
+
+
+
+## Coreset Selection
++ **Moderate coreset: A universal method of data selection for real-world data-efficient deep learning**
 ```bibtex
-@article{zhao2020dataset,
-  title={Dataset condensation with gradient matching},
-  author={Zhao, Bo and Mopuri, Konda Reddy and Bilen, Hakan},
-  journal={ICLR},
-  year={2021}
+@inproceedings{xia2023moderate,
+  title={Moderate coreset: A universal method of data selection for real-world data-efficient deep learning},
+  author={Xia, Xiaobo and Liu, Jiale and Yu, Jun and Shen, Xu and Han, Bo and Liu, Tongliang},
+  booktitle={ICLR},
+  year={2023}
 }
 ```
+
+
+
+
+
+
+
