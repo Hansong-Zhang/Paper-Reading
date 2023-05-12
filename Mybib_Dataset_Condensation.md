@@ -15,7 +15,7 @@ year={2022}
 }
 
 
-+ Delving into Effective Gradient Matching for Dataset Condensation
+
 
 ```bibtex
 @article{jiang2022delving,
