@@ -1,4 +1,4 @@
-# My Bib for Dataset Condensation
+# My BibTex for Dataset Condensation
 
 ## Gradient-Matching
 + **Delving into Effective Gradient Matching for Dataset Condensation**
