@@ -49,6 +49,7 @@ year={2021}
 
 ## Coreset Selection
 + **Moderate coreset: A universal method of data selection for real-world data-efficient deep learning**
+  + *select the samples that are close to the median of certain metric (e.g. intra-class distance)*
 ```bibtex
 @inproceedings{xia2023moderate,
   title={Moderate coreset: A universal method of data selection for real-world data-efficient deep learning},
