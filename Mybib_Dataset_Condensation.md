@@ -27,7 +27,8 @@ year={2021}
 ```
 
 + **Dataset condensation with gradient matching**
-  + *todo*
+  + *match the gradient of the synthetic dataset and the whole dataset*
+  + *simultaneously mimicing the training process, i.e., keep the updating path similar*
 ```bibtex
 @article{zhao2020dataset,
   title={Dataset condensation with gradient matching},
