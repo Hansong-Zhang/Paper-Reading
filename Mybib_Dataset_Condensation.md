@@ -25,6 +25,18 @@ year={2022}
 }
 ```
 
++**Dataset condensation with contrastive signals**
+  +*--to do*
+```bibtex
+@inproceedings{lee2022dataset,
+  title={Dataset condensation with contrastive signals},
+  author={Lee, Saehyung and Chun, Sanghyuk and Jung, Sangwon and Yun, Sangdoo and Yoon, Sungroh},
+  booktitle={ICML},
+  pages={12352--12364},
+  year={2022},
+  organization={PMLR}
+}
+```
 
 ## Data Augmentation
 + **Dataset condensation with differentiable siamese augmentation**
