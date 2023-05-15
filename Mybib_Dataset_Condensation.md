@@ -1,6 +1,5 @@
-# My BibTex for Dataset Condensation
-## Dataset Distillation/Condensation
-### Gradient-Matching
+# Dataset Distillation/Condensation
+## Gradient-Matching
 + **Delving into Effective Gradient Matching for Dataset Condensation**
   + *inter and intra class gradient matching*
   + *consider angle*
@@ -27,7 +26,7 @@ year={2022}
 ```
 
 
-### Data Augmentation
+## Data Augmentation
 + **Dataset condensation with differentiable siamese augmentation**
   + *apply data augmentation on both real and synthetic data*
 ```bibtex
