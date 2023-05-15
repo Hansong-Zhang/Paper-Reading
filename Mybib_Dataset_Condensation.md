@@ -38,6 +38,18 @@ year={2022}
 }
 ```
 
++ **Dataset distillation by matching training trajectories**
+  + *--matching the model parameters trained on real and synthetic data*
+```bibtex
+@inproceedings{cazenavette2022dataset,
+  title={Dataset distillation by matching training trajectories},
+  author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A and Zhu, Jun-Yan},
+  booktitle={CVPR},
+  pages={4750--4759},
+  year={2022}
+}
+```
+
 ## Data Augmentation
 + **Dataset condensation with differentiable siamese augmentation**
   + *apply data augmentation on both real and synthetic data*
