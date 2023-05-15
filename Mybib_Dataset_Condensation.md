@@ -26,7 +26,7 @@ year={2022}
 ```
 
 + **Dataset condensation with contrastive signals**
-  +*--to do*
+  + *--to do*
 ```bibtex
 @inproceedings{lee2022dataset,
   title={Dataset condensation with contrastive signals},
