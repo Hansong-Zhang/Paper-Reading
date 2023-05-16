@@ -13,7 +13,7 @@ year={2022}
 }
 ```
 
-+ **Dataset condensation with gradient matching**
++ **[DC] Dataset condensation with gradient matching**
   + *match the gradient of the synthetic dataset and the whole dataset*
   + *simultaneously mimicing the training process, i.e., keep the updating path similar*
 ```bibtex
@@ -25,7 +25,7 @@ year={2022}
 }
 ```
 
-+ **Dataset condensation with contrastive signals**
++ **[DCC;DSAC] Dataset condensation with contrastive signals**
   + *--to do*
 ```bibtex
 @inproceedings{lee2022dataset,
@@ -38,7 +38,7 @@ year={2022}
 }
 ```
 
-+ **Dataset distillation by matching training trajectories**
++ **[MTT] Dataset distillation by matching training trajectories**
   + *--matching the model parameters trained on real and synthetic data*
 ```bibtex
 @inproceedings{cazenavette2022dataset,
@@ -51,7 +51,7 @@ year={2022}
 ```
 
 ## Data Augmentation
-+ **Dataset condensation with differentiable siamese augmentation**
++ **[DSA] Dataset condensation with differentiable siamese augmentation**
   + *apply data augmentation on both real and synthetic data*
 ```bibtex
 @inproceedings{zhao2021dataset,
@@ -82,7 +82,7 @@ year={2021}
 }
 ```
 
-+ **[GraNd-score, EL2N-score]Deep learning on a data diet: Finding important examples early in training**
++ **[GraNd-score;EL2N-score] Deep learning on a data diet: Finding important examples early in training**
   + *GraNd-score: points with larger gradient norms*
   + *EL2N-score: data points with larger norms of the error vector that is the predicted class probabilities minus one-hot label encoding*
 ```bibtex
@@ -95,7 +95,7 @@ year={2021}
 }
 ```
 
-+ **[Forgetting]An empirical study of example forgetting during deep neural network learning**
++ **[Forgetting] An empirical study of example forgetting during deep neural network learning**
   + *select data points that are easy to be forgotten during training*
 ```bibtex
 @article{toneva2018empirical,
