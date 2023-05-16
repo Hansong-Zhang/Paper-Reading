@@ -82,6 +82,32 @@ year={2021}
 }
 ```
 
++ **[GraNd-score, EL2N-score]Deep learning on a data diet: Finding important examples early in training**
+  + *GraNd-score: points with larger gradient norms*
+  + *EL2N-score: data points with larger norms of the error vector that is the predicted class probabilities minus one-hot label encoding*
+```bibtex
+@article{paul2021deep,
+  title={Deep learning on a data diet: Finding important examples early in training},
+  author={Paul, Mansheej and Ganguli, Surya and Dziugaite, Gintare Karolina},
+  journal={NeurIPS},
+  pages={20596--20607},
+  year={2021}
+}
+```
+
++ **[Forgetting]An empirical study of example forgetting during deep neural network learning**
+  + *select data points that are easy to be forgotten during training*
+```bibtex
+@article{toneva2018empirical,
+  title={An empirical study of example forgetting during deep neural network learning},
+  author={Toneva, Mariya and Sordoni, Alessandro and Combes, Remi Tachet des and Trischler, Adam and Bengio, Yoshua and Gordon, Geoffrey J},
+  journal={ICLR},
+  year={2019}
+}
+```
+
+
+
 
 
 
