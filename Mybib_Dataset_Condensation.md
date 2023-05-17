@@ -63,6 +63,18 @@ year={2021}
 }
 ```
 
+## Parameterization
++ **[IDC] Dataset condensation via efficient synthetic-data parameterization**
+  + *multi-factorization in synthetic set*
+```bibtex
+@inproceedings{kim2022dataset,
+  title={Dataset condensation via efficient synthetic-data parameterization},
+  author={Kim, Jang-Hyun and Kim, Jinuk and Oh, Seong Joon and Yun, Sangdoo and Song, Hwanjun and Jeong, Joonhyun and Ha, Jung-Woo and Song, Hyun Oh},
+  booktitle={ICML},
+  pages={11102--11118},
+  year={2022}
+}
+```
 
 
 
