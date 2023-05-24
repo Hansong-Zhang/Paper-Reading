@@ -13,7 +13,7 @@ year={2022}
 }
 ```
 
-+ **[DC] Dataset condensation with gradient matching**
++ **[DC] [Dataset condensation with gradient matching](https://arxiv.org/abs/2006.05929)**
   + *match the gradient of the synthetic dataset and the whole dataset*
   + *simultaneously mimicing the training process, i.e., keep the updating path similar*
 ```bibtex
