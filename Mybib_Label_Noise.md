@@ -1,6 +1,6 @@
 # Learning From Crowds
 
-+ **Max-mig: an information theoretic approach for joint learning from crowds**
++ **[Max-MIG] Max-mig: an information theoretic approach for joint learning from crowds**
 ```bibtex
 @article{cao2019max,
   title={Max-mig: an information theoretic approach for joint learning from crowds},
