@@ -11,7 +11,6 @@
 ```
 
 + **[Co-teaching] Co-teaching: Robust training of deep neural networks with extremely noisy labels**
-
   -introduction
   -accurate label is hard to get
 ```bibtex
@@ -25,9 +24,8 @@
 
 
 + **Learning from Noisy Labels with Deep Neural Networks: A Survey**
-
-  -introduction
-  -accurate label is hard to get
+  - introduction
+  - accurate label is hard to get
 ```bibtex
 @article{song2022learning,
   author  = {Song, Hwanjun and Kim, Minseok and Park, Dongmin and Shin, Yooju and Lee, Jae-Gil},
@@ -38,8 +36,8 @@
 ```
 
 + **Knowledge Learning with Crowdsourcing: A Brief Review and Systematic Perspective** 
-  -introduction
-  -introducing crowd-sourcing
+  - introduction
+  - introducing crowd-sourcing
 ```bibtex
 @article{zhang2022knowledge,
   author  = {Zhang, Jing},
