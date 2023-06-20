@@ -21,7 +21,12 @@
 ```
 
 
-
-
-
-
++ **Learning from Noisy Labels with Deep Neural Networks: A Survey**
+```bibtex
+@article{song2022learning,
+  author  = {Song, Hwanjun and Kim, Minseok and Park, Dongmin and Shin, Yooju and Lee, Jae-Gil},
+  title   = {Learning from Noisy Labels with Deep Neural Networks: A Survey},
+  journal = {IEEE Trans. Neural Netw. Learn. Syst.},
+  year    = {2022},
+}
+```
