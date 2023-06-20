@@ -46,3 +46,16 @@
   year    = {2022},
 }
 ```
+
+
++ **The YouTube Lens: Crowdsourced Personality Impressions and Audiovisual Analysis of Vlogs** 
+  - introduction of crowd-sourcing
+  - first mention of crowd-sourcing
+```bibtex
+@article{biel2012youtube,
+  author  = {Biel, Joan-Isaac and Gatica-Perez, Daniel},
+  title   = {The YouTube Lens: Crowdsourced Personality Impressions and Audiovisual Analysis of Vlogs},
+  journal = {IEEE Trans. Multimedia},
+  year    = {2012},
+}
+```
