@@ -10,8 +10,15 @@
 }
 ```
 
-
-
++ **[Co-teaching] Co-teaching: Robust training of deep neural networks with extremely noisy labels**
+```bibtex
+@article{han2018co,
+  title={Co-teaching: Robust training of deep neural networks with extremely noisy labels},
+  author={Han, Bo and Yao, Quanming and Yu, Xingrui and Niu, Gang and Xu, Miao and Hu, Weihua and Tsang, Ivor and Sugiyama, Masashi},
+  journal={NeurIPS},
+  year={2018}
+}
+```
 
 
 
