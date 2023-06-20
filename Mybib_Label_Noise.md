@@ -11,8 +11,8 @@
 ```
 
 + **[Co-teaching] Co-teaching: Robust training of deep neural networks with extremely noisy labels**
-  -introduction
-  -accurate label is hard to get
+  - introduction
+  - accurate label is hard to get
 ```bibtex
 @article{han2018co,
   title={Co-teaching: Robust training of deep neural networks with extremely noisy labels},
