@@ -59,3 +59,32 @@
   year    = {2012},
 }
 ```
+
+
+
+
++ **Crowdsourcing, Open Innovation and Collective Intelligence in the Scientific Method: A Research Agenda and Operational Framework** 
+  - first mention of crowd-sourcing
+```bibtex
+@inproceedings{buecheler2010crowdsourcing,
+  author    = {Buecheler, Thierry and Sieg, Jan Henrik and F{\"u}chslin, Rudolf Marcel and Pfeifer, Rolf},
+  title     = {Crowdsourcing, Open Innovation and Collective Intelligence in the Scientific Method: A Research Agenda and Operational Framework},
+  booktitle = {Proc. 12th Int. Conf. on the Synthesis and Simulation of Living Systems},
+  year      = {2010},
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
